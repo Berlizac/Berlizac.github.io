@@ -1,0 +1,19 @@
+.q1, .q2, .q3, .q1-choice, .q2-choice, .q3-choice {
+    display: none;
+} 
+
+.sidebar {
+    float: left; 
+    width: 15%;
+    height: 1500px; 
+}
+
+* {
+    color: orange;
+} 
+
+body {
+    background-color: black
+    ;
+}
+
