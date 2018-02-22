@@ -1,0 +1,26 @@
+{
+  "htmlFiles": [
+    {
+      "fileId": "14a5IpTdWlvhtEFo57V1QABOVvKa1A5_X",
+      "contentType": "text/html",
+      "name": "arraysExercises.html",
+      "path": "1qvTVcUznmyS9Mf6Goxs3Euzhii-o_D7i/"
+    }
+  ],
+  "cssFiles": [
+    {
+      "fileId": "17xox5UAecut9vDDeTBk9BfTZCfNJyFRY",
+      "contentType": "text/css",
+      "name": "arraysExercises.css",
+      "path": "1qvTVcUznmyS9Mf6Goxs3Euzhii-o_D7i/"
+    }
+  ],
+  "javascriptFiles": [
+    {
+      "fileId": "1aSUJrGBGd-1xauSUIILrO-8Y3e3PMHU7",
+      "contentType": "text/javascript",
+      "name": "arraysExercises.js",
+      "path": "1qvTVcUznmyS9Mf6Goxs3Euzhii-o_D7i/"
+    }
+  ]
+}
